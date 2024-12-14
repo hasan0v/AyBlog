@@ -1,4 +1,4 @@
-# Blog Application
+# AyBlog
 
 This is a Django-based blog application that allows users to create, read, update, and delete blog posts. The application also includes features for categorizing posts, liking posts, and viewing detailed information about each post.
 
